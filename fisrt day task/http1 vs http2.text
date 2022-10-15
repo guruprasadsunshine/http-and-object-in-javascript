@@ -1,0 +1,2 @@
+http1 initialy they provided human readeble data msg format http 
+http 2 wraps it , wrap the request in a frame and that a not readeble by humans the frames help us to compress the packets more compare to http also in new version we can use a single connection to make  multiple requests but this is hard to impliment   so we are not using that part but we are using single request in one connection 
